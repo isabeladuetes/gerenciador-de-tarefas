@@ -10,4 +10,4 @@ console.log("Depois do Splice:");
 tarefas.splice(3,0, "Dar aula no SENAI");
 console.table(tarefas);
 
-console.log("As tarefaa removida foi:", tarefaRemovida);
+console.log("As tarefa removida foi:", tarefaRemovida);
