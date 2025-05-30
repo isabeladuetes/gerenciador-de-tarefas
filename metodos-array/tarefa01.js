@@ -4,7 +4,7 @@ let tarefas = ['Estudar JavaScript', 'Fazer exercícios de matemática', 'Lavar 
 console.log("Antes do push:");
 console.table(tarefas);
 
-// Adicionando novas tarefas
+// Adicionando novas tarefas no array
 tarefas.push('Dormir  muito', 'Cantar pagode');
 
 console.log("Depois do push:");
